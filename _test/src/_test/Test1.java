@@ -7,5 +7,6 @@ public class Test1 {
 		String s = "pangsong";
 		System.out.println(a+s);
 		System.out.println(a);
+		System.out.println(s);
 	}
 }
